@@ -99,7 +99,7 @@ const FormPage = () => {
 
   return (
     <div className="container mt-5">
-      <h2>Contact Us</h2>
+      <h2>Contact Us 1</h2>
 
       {submitted && (
         <div className="alert alert-success" role="alert">
